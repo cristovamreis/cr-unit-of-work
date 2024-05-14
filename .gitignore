@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # System files
 .DS_Store
+
+# Local database
+*.db
